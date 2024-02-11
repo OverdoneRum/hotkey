@@ -1,4 +1,4 @@
-<h2> clock ~ a simple event listener program</h2>
+<h2> hotkey ~ a simple event listener program</h2>
 
 <p> This project is for personal use and is not intended for use in other projects, thus I will be treating this readme more as a journal entry than documentation. </p>
 
